@@ -1,0 +1,22 @@
+{
+  "name": "voicemeeter-controller",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000V\u0000o\u0000i\u0000c\u0000e\u0000M\u0000e\u0000e\u0000t\u0000e\u0000r\u0000\r\u0000 \u0000\r\u0000 \u0000I\u0000 \u0000w\u0000a\u0000n\u0000t\u0000e\u0000d\u0000 \u0000a\u0000 \u0000q\u0000u\u0000i\u0000c\u0000k\u0000 \u0000a\u0000n\u0000d\u0000 \u0000e\u0000a\u0000s\u0000y\u0000 \u0000w\u0000a\u0000y\u0000 \u0000t\u0000o\u0000 \u0000c\u0000o\u0000n\u0000t\u0000r\u0000o\u0000l\u0000 \u0000v\u0000o\u0000i\u0000c\u0000e\u0000m\u0000e\u0000e\u0000t\u0000e\u0000r\u0000 \u0000w\u0000i\u0000t\u0000h\u0000 \u0000j\u0000s\u0000\r\u0000 \u0000\r\u0000 \u0000a\u0000l\u0000s\u0000o\u0000 \u0000y\u0000e\u0000s\u0000 \u0000t\u0000h\u0000i\u0000s\u0000 \u0000i\u0000s\u0000 \u0000a\u0000 \u0000j\u0000s\u0000 \u0000w\u0000r\u0000a\u0000p\u0000p\u0000e\u0000r\u0000 \u0000a\u0000r\u0000o\u0000u\u0000n\u0000d\u0000 \u0000t\u0000h\u0000e\u0000 \u0000p\u0000y\u0000t\u0000h\u0000o\u0000n\u0000 \u0000w\u0000r\u0000a\u0000p\u0000p\u0000e\u0000r\u0000",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phaze-the-dumb/voicemeeter.git"
+  },
+  "author": "Phaze#6193",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phaze-the-dumb/voicemeeter/issues"
+  },
+  "homepage": "https://github.com/phaze-the-dumb/voicemeeter#readme"
+}
